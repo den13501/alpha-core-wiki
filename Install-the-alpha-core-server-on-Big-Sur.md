@@ -1,7 +1,3 @@
-# Install the alpha-core server on Big Sur
-
-
-
 Install instructions to install the alpha-core server on macOS Big Sur.
 
 
