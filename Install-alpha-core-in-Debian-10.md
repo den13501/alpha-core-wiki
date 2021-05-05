@@ -82,7 +82,7 @@ Connection:
 
 
 
-Change server IP to your computer in config.yml. This is an optional step! **If you got your server and client on the same computer you don’t need to edit this**. Otherwise, you enter your computer’s local IP-address (for lan usage).  Also, you need to open 8100, 9090, 9100 ports. If you are running client and server on the same computer you can skip this.
+Change server IP to your computer in config.yml. This is an optional step! **If you got your server and client on the same computer you don’t need to edit this**. Otherwise, you enter your computer’s local IP-address (for lan usage).  Also, you need to open 8100, 9090, 9100 ports. If you are running client and server on the same computer you can skip this. If you want to have access outside your computer and lan, change ip to 0.0.0.0
 
 ```bash
 Server:
