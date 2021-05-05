@@ -159,7 +159,7 @@ pyhton3 main.py
 ## Client
 
 - Mangosrumors got an excellent article about running older WoW clients in newer Mac OS’s (Big Sur, Catalina) https://www.mangosrumors.org/how-to-run-wow-32-bit-on-mac-os/
-- The valid client is: **WoW-0.5.3.3368_install_enUS.iso**
+- The valid client is: **[WoW-0.5.3.3368_install_enUS.iso](https://archive.org/download/World_of_Warcraft_Client_and_Installation_Archive/ISO/WoW-0.5.3.3368_install_enUS.iso)**
 
 
 
@@ -175,7 +175,7 @@ pyhton3 main.py
 
   config.wtf
 
-   and add:
+   and add 127.0.0.1 for local machine. otherwise external IP. 
 
   ```bash
   SET realmName "alphacore"
@@ -201,3 +201,7 @@ pyhton3 main.py
 ```bash
 WoWClient.exe -uptodate -console -windowed
 ```
+
+You can also use a modified exe file. If your using this file you don't need to use uptodate or windowed flags, it also supports bigger resolutions then the original. Also, you don't need to use the ses file. 
+
+[Moded 0.5.3 client ](http://www.mediafire.com/file/wjbk1ovyyb6ry7l/Mods.zip/file)
