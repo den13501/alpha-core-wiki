@@ -14,7 +14,7 @@ mkdir /opt
 
 ## Virtualenv
 
-add this to the end of **~./bashrc**
+add this to the end of **~/.bashrc**
 
 ```bash
 # Virtualenv
